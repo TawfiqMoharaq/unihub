@@ -4,7 +4,13 @@
 The system leverages **Machine Learning, NLP, and Recommendation Models** to deliver personalized event suggestions and notifications.
 
 ---
+## 🏆 Achievements
 
+- 🥈 **2nd Place Winner** — Digital Innovation Hackathon 2025, Jazan University  
+- Recognized for its integration of **AI-based recommendation** and **university digital transformation** goals.
+- https://www.linkedin.com/posts/tawfiq-moharaq-1a37ba2a3_aevaepaeraepaetaewaeuabraepaesaepaeqaesaeraepaezabraepaesaezaeqaetaey-activity-7323242658896695298-6aCS?utm_source=share&utm_medium=member_desktop&rcm=ACoAAElEg4sByjw8cD47_JAxskGndQoCcIdFPnM
+
+---
 ## 🚀 Overview
 
 Many students miss out on valuable extracurricular or academic events because they don’t know which ones fit their interests.  
